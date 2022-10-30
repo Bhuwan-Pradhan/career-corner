@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1010446898476",
+    "firebase_url": "https://talent-management-center-d0b35-default-rtdb.firebaseio.com",
+    "project_id": "talent-management-center-d0b35",
+    "storage_bucket": "talent-management-center-d0b35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010446898476:android:d5b8f94419d340a4214889",
+        "android_client_info": {
+          "package_name": "com.monodeca.cc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010446898476-krcrhbi19gra5u249m7lucl09hu28u4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.monodeca.cc",
+            "certificate_hash": "4b3db41e3e4022713d052004ff7e7f80d9ec5679"
+          }
+        },
+        {
+          "client_id": "1010446898476-2omb1b2q7tqlt55lmrbie0l8sfj5glpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7bmvGO6ZreWUFfhQVZLmpyVz-8hLgVpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010446898476-2omb1b2q7tqlt55lmrbie0l8sfj5glpv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1010446898476-c9sqlin5bea7vsd8dc15ve3cb4rd1ti2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cc.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
